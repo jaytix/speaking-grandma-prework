@@ -8,6 +8,7 @@ def speak_to_grandma (speak)
     puts "HUH?! SPEAK UP, SONNY!"
   elsif speak == "WHAT DID YOU EAT TODAY?" || "WHAT?"
     puts "NO, NOT SINCE 1938!"
+  end
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
